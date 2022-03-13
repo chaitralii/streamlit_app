@@ -2,13 +2,13 @@ import streamlit as st
 # import seaborn as sns
 import numpy as np
 import pandas as pd
-import plotly.figure_factory as ff
+# import plotly.figure_factory as ff
 
 import requests
 from bs4 import BeautifulSoup
 
 
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 import plotly.express as px
 import plotly.graph_objs as go
