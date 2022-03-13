@@ -1,2 +1,7 @@
-stramlit==1.1.0
-plotly==5.1.0
+#stramlit==1.1.0
+#plotly==5.1.0
+pip install pipreqs
+pipreqs
+/C:\Users\User\PycharmProjects\pythonProject\main.py
+
+
